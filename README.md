@@ -1,4 +1,4 @@
-# px4_autolanding_ros
+# PX4 Multicopter Target precision landing with Apriltag detection (in ROS1)
 
 ROS1 Package to control PX4 Multicopter
 
